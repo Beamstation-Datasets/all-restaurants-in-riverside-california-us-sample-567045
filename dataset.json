@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Riverside, California with a population of over 314k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
+  "config_name": "All Restaurants in Riverside, California, US",
+  "export_job_id": "45ee9893-5b2a-41b9-833a-cee95ed400f8",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 567045,
+  "location_name": "Riverside",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-riverside-california-us-sample-567045",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/567045/beamstation_567045_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 3.75,
+  "sample_records": 25,
+  "sample_sha256": "078621c7ff380e31aaaf274997d60e4e536fddabab260de8328f6352d419a937",
+  "sample_size_bytes": 113865,
+  "total_records": 667,
+  "updated_at": "2026-03-31T14:22:15.693021+00:00"
+}
