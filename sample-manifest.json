@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ac1665bc-0eea-4383-8332-9187f3c49acb",
+  "export_job_id": "7315b76f-bc37-4c04-8891-03df43a3c9ff",
   "id_short": 567045,
-  "published_at": "2026-04-21T19:33:54Z",
+  "published_at": "2026-04-28T19:44:35Z",
   "repo_name": "all-restaurants-in-riverside-california-us-sample-567045",
   "sample_asset_name": "beamstation_567045_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/567045/beamstation_567045_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 81,
-  "sample_sha256": "ace37616a6bf1075d717ab20f98f435c24133a0e5728dde0606adcf90631a37f",
-  "sample_size_bytes": 322101,
-  "total_records": 814
+  "sample_records": 70,
+  "sample_sha256": "f768a97436da11fba142941a258c73db8dda58a70eab45a26dd2127c26c1c854",
+  "sample_size_bytes": 266230,
+  "total_records": 706
 }
